@@ -7,8 +7,8 @@
 ### MERN Stack Developer | Full Stack Web Developer
 
 📍 **Pabna, Rajshahi, Bangladesh**  
-📧 **Email:** yourprofessionalemail@gmail.com  
-📞 **Phone:** +8801XXXXXXXXX
+📧 **Email:** mdimranhossan146@gmail.com
+📞 **Phone:** +8801792826090
 
 <p align="center">
   <a href="https://github.com/tazmul-dev" target="_blank">
@@ -101,30 +101,15 @@ A modern pet adoption platform where users can browse pets, submit adoption requ
 # 📊 GitHub Statistics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=tazmul-dev&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tazmul-dev&layout=compact&theme=tokyonight"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tazmul-dev&show_icons=true&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tazmul-dev&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=tazmul-dev&theme=tokyonight"/>
-
+  <img src="https://streak-stats.demolab.com?user=tazmul-dev&theme=tokyonight"/>
 </p>
 
 ---
-## 📊 GitHub Statistics
-
-- 🔥 **Total Contributions:** 850+
-- 💻 **Public Repositories:** 25+
-- ⭐ **Total Stars Earned:** 0+
-- 🍴 **Total Forks:** 8+
-- 📈 **Current GitHub Streak:** 2+ Days
-- 🧑‍💻 **Primary Languages:** JavaScript, HTML, CSS
-- ⚛️ **Technologies:** React, Next.js, Node.js, Express.js, MongoDB, Tailwind CSS
-- 🚀 **Projects Completed:** 10+
 
 # 🏆 GitHub Trophies
 
