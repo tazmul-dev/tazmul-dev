@@ -115,16 +115,16 @@ A modern pet adoption platform where users can browse pets, submit adoption requ
 </p>
 
 ---
+## 📊 GitHub Statistics
 
-# 📈 GitHub Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tazmul-dev&theme=tokyo-night"/>
-
-</p>
-
----
+- 🔥 **Total Contributions:** 850+
+- 💻 **Public Repositories:** 25+
+- ⭐ **Total Stars Earned:** 0+
+- 🍴 **Total Forks:** 8+
+- 📈 **Current GitHub Streak:** 2+ Days
+- 🧑‍💻 **Primary Languages:** JavaScript, HTML, CSS
+- ⚛️ **Technologies:** React, Next.js, Node.js, Express.js, MongoDB, Tailwind CSS
+- 🚀 **Projects Completed:** 10+
 
 # 🏆 GitHub Trophies
 
