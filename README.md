@@ -1,21 +1,66 @@
-<h1 align="center">Hi 👋, I'm Tazmul Hossain</h1>
-<h3 align="center"> Frontend Developer | React Learner </h3>
+<div align="center">
+  <!-- Banner Image -->
+  <img width="100%" alt="Profile Banner" src="https://github.com/user-attachments/assets/41e61b20-da1a-478c-a977-7801580cacf1" />
 
-<img width="1584" height="396" alt="github" src="https://github.com/user-attachments/assets/41e61b20-da1a-478c-a977-7801580cacf1" />
+  <h1>Hi 👋, I'm Tazmul Hossain</h1>
+  <h3>MERN Stack Developer | React & Next.js Enthusiast</h3>
 
-<h2>About me:</h2>
-<p>A passionate frontend developer from Bangladesh <br />
-I love building modern web applications and exploring new technologies.  
-</p>
-- 🌱 I’m currently learning **Next.js,**
+  <!-- Social Links -->
+  <p align="center">
+    <a href="https://www.linkedin.com/in/tazmul" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://twitter.com/YOUR_TWITTER_HANDLE" target="_blank">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    </a>
+    <a href="mailto:mdimranhossan146@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+</div>
 
-- 📫 How to reach me **mdimranhossan146@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
+### 👨‍💻 About Me
+I am a passionate MERN Stack Developer from Bangladesh with a keen eye for building modern, responsive, and scalable web applications. I specialize in crafting seamless digital experiences from the database to the user interface, blending clean code with a corporate, professional aesthetic. I love turning complex problems into intuitive, user-friendly solutions.
+
+### ⚡ Current Activities
+- 🔭 I’m currently working on a **tourism website** and a **GitHub Issues Tracker**.
+- 🌱 I am exploring **Next.js** to build high-performance, full-stack applications.
+- 👨‍💻 I regularly focus on refining my skills in React, Tailwind CSS, and scalable JavaScript logic.
+- 🤝 I’m open to collaborating on MERN stack and frontend React projects.
+
+---
+
+### 🛠️ Skills & Technologies
+
+**Frontend Development**  
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/tazmul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/tazmul" height="30" width="40" /></a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,js,tailwind,html,css&theme=light" alt="Frontend Tech" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+**Backend & Database**  
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=light" alt="Backend Tech" />
+  </a>
+</p>
 
+**Tools & Others**  
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,postman,java,vscode&theme=light" alt="Tools" />
+  </a>
+</p>
+
+---
+
+## 📊 Relevant GitHub Stats
+
+- 🔥 Total Contributions: **2,000+**
+- 💻 Public Repositories: **20+**
+- 🧑‍💻 Primary Languages: JavaScript, TypeScript, HTML, CSS
+- ⚛️ Most Used Technologies: React, Next.js, Node.js, Express.js, MongoDB
+- 📈 GitHub Streak: **150+ Days**
